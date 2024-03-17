@@ -44,7 +44,7 @@ int main() {
     for(int i =0;i<m;i++){
         printf("%d\t",v[i]);
     }
-    printf("\n produit vecteur matrice : ");
+    printf("\n produit vecteur matrice : \n");
 
     for(int i =0;i<n;i++){
         printf("%d\t",b[i]);
